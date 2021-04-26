@@ -1,0 +1,84 @@
+.header{
+    text-align: center;
+    font-size: 125px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+.riddle{
+    text-align: center;
+    font-size: 75px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+    color: white;
+}
+.intro{
+    text-align: center;
+    font-size: 35px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+    color: white;
+}
+.usage{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+    color: white;
+}
+.cons{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+    color: white;
+}
+.sources{
+    text-align: center;
+    font-size: 35px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.health{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: black;
+}
+a:link{
+    color: white;
+}
+a:visited{
+    color: white;
+}
+.water{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.riddle2:hover{
+    transform: scale(1.2);
+}
+.intro2:hover{
+    transform: scale(1.2);
+}
+.cons2:hover{
+    transform: scale(1.2);
+}
+.sources2:hover{
+    transform: scale(1.2);
+}
+.health2:hover{
+    transform: scale(1.2);
+}
+.usage2:hover{
+    transform: scale(1.2);
+}
+.misuse2:hover{
+    transform: scale(1.2);
+}
